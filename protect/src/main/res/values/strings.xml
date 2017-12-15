@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProtectActivity</string>
+    <string name="title_activity_protect_by_service">ProtectByService</string>
+</resources>
